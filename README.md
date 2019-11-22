@@ -2,4 +2,9 @@ Run using:
 ```main.py -m <model_location> -w <draw_wireframe> -f <draw_faces>```
 
 **Examples:**
-<iframe src="https://www.desmos.com/calculator/ch00ce9sza?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
+Snowman: https://www.desmos.com/calculator/ch00ce9sza
+Pi: https://www.desmos.com/calculator/zatd1dszee
+Car: https://www.desmos.com/calculator/2w52t8n5jh
+Desmos Logo: https://www.desmos.com/calculator/buxabkj6ee
+
+*Beware of bad python code! It's an old project, however the concept is interesting.*
